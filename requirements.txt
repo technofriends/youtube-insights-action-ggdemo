@@ -1,0 +1,12 @@
+Flask>=2.3.2
+pyairtable>=2.1.0
+pydantic>=2.0.2
+requests>=2.31.0
+python-dotenv>=1.0.0
+langchain>=0.0.184
+langchain-openai>=0.0.2
+langchain-anthropic>=0.0.1
+langchain-groq>=0.0.1
+langchain-community>=0.0.6
+youtube_transcript_api>=0.6.1
+gunicorn
